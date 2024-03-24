@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Revanth-Protfoilo/static/css/main.bccec2b6.css",
-    "main.js": "/Revanth-Protfoilo/static/js/main.1145f717.js",
+    "main.js": "/Revanth-Protfoilo/static/js/main.14978655.js",
     "static/media/about.png": "/Revanth-Protfoilo/static/media/about.619ff0b319a55d0c05b1.png",
     "static/media/hero.png": "/Revanth-Protfoilo/static/media/hero.f14f30c6d01a97df04f6.png",
     "static/media/resume.jpg": "/Revanth-Protfoilo/static/media/resume.40d9ec3d0701d254f50f.jpg",
     "static/media/ecommerce-websites.jpg": "/Revanth-Protfoilo/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
     "index.html": "/Revanth-Protfoilo/index.html",
     "main.bccec2b6.css.map": "/Revanth-Protfoilo/static/css/main.bccec2b6.css.map",
-    "main.1145f717.js.map": "/Revanth-Protfoilo/static/js/main.1145f717.js.map"
+    "main.14978655.js.map": "/Revanth-Protfoilo/static/js/main.14978655.js.map"
   },
   "entrypoints": [
     "static/css/main.bccec2b6.css",
-    "static/js/main.1145f717.js"
+    "static/js/main.14978655.js"
   ]
 }
